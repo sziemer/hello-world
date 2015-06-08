@@ -1,2 +1,3 @@
 # hello-world
-My first repo
+====================
+So hi everyone. I'm getting used to Git.
